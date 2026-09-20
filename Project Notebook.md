@@ -12,7 +12,7 @@
 
 ## Flow Diagram: 
 
-![[Pasted image 20260920175230.png]]
+![[DataFlowDiagram.png]]
 
 ## Design decisions and justifications
 
